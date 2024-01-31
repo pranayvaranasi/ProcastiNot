@@ -7,7 +7,7 @@ db = mysql.connector.connect(
     host='127.0.0.1',
     port=3306,
     user='pranayvaranasi',
-    password='789456123eggm@n0',
+    password='', #password is hidden for privacy reasons
     database='todo'
 )
 
